@@ -18,7 +18,3 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thswogh&layout=compact)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thswogh)](https://github.com/anuraghazra/github-readme-stats)

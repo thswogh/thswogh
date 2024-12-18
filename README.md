@@ -1,7 +1,11 @@
 ### Hi there 👋
 [기술블로그](https://velog.io/@wlrmadlwhgdk)
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thswogh)](https://github.com/thswogh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thswogh)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thswogh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **thswogh/thswogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

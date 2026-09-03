@@ -34,9 +34,9 @@
 
 ### 🏆 Certifications
 공부중..
-* 📜 **정보처리기사** (Engineer Information Processing)
-* 📜 **SQLD** (SQL Developer)
-* 📜 **리눅스마스터 2급** (Linux Master Level 2)
+* 📜 **정보처리기사** 
+* 📜 **SQLD** 
+* 📜 **리눅스마스터 2급**
 
 ---
 
@@ -47,12 +47,6 @@
 * **Role**: Frontend
 * **Tech Stack**: React, Next.js, TypeScript
 * **Link**: [https://github.com/Sejong-Balsamic/Malsami-FE](https://github.com/Sejong-Balsamic/Malsami-FE)
-  
-#### 2. [프로젝트 이름 2]
-> **프로젝트 한 줄 설명 입력**
-* **Role**: Frontend / AI Integration
-* **Tech Stack**: Python, LangChain, React
-* **Link**: [GitHub Repository](#) | [Live Demo](#)
 
 ---
 

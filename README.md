@@ -38,7 +38,7 @@
 | 기간 | 내용 |
 | --- | --- |
 | 2026 | **[HYUNDAI] AI Insight Campus** · AI 서비스 개발과정 |
-| 2026 | **UPV (Universitat Politècnica de València)** · Software Engineering |
+| 2026 | **UPV (Universidad del País Vasco)** · Software Engineering |
 | 2023 | **42 Seoul** · La Piscine |
 | 2021 ~ 2026 | **세종대학교** · 소프트웨어학과 |
 
